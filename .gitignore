@@ -1,1 +1,4 @@
 *.tbz2
+*.tar.bz2
+*.tar.xz
+.Rhistory
